@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-**Computer Vision Deep Learning R&D Engineer** at [SECERN AI](https://github.com/CUBOX-Co-Ltd), Seoul 🇰🇷
+**Computer Vision Deep Learning R&D Engineer** at [SECERN AI](https://github.com/SECERN-AI), Seoul 🇰🇷
 
 I build and optimize deep learning models for real-world vision products — face detection & recognition,
 model compression/quantization, and high-performance inference serving.
